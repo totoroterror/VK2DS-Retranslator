@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'boilerplate',
+    name: 'vk2ds-retranlsator',
     script: './dist/index.js',
     env_production: {
       NODE_ENV: 'production',
